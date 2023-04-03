@@ -8,6 +8,12 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: projects.qmd
+        text: Publications & Projects
+      - href: Teaching.qmd
+        text: Teaching
+      - href: Contact.qmd
+        text: Contact
 
 # supplying a light ("minty") and dark ("slate") theme to toggle between
 format:

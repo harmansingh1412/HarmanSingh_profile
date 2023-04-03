@@ -1,0 +1,6 @@
+---
+title: "Contact Information"
+editor: visual
+---
+
+Harman Singh, [harmansingh1412\@gmail.com](mailto:%20harmansingh1412@gmail.com)\
