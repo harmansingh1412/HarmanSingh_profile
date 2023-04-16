@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: About
       - href: projects.qmd
-        text: Publications & Projects
+        text: Research
       - href: Teaching.qmd
         text: Teaching
       - href: Contact.qmd

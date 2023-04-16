@@ -18,6 +18,12 @@ about:
       href: https://www.linkedin.com/in/harman-singh-a4b5aa138/
 ---
 
-Hello! My name is Harman Singh and I am a graduate student in the Department of Geography at Penn State University, U.S.A. I am pursuing a Dual-title Ph.D. in **Geography** and **Climate Science** researching urban floods in India from a human-environment and hydrometeorology perspective.
+Hello! My name is Harman Singh and I am a graduate student in the [Department of Geography](https://www.geog.psu.edu/) at Penn State University, U.S.A. pursuing a dual-title Ph.D. in **Geography** and **Climate Science**. I earned my B.Sc. in **Geography** with a minor in **Sustainability Leadership** from Penn State University in 2021.
 
-I earned my B.Sc. in **Geography** with a minor in **Sustainability Leadership** from Penn State University in 2021.
+My research interests lie primarily in field of natural hazards and human-environmental systems. My Ph.D. research is grounded in disaster risk science, and I am interested in identifying future urban pluvial flood risks under a changing climate in India.
+
+[***Flood News***]{.underline}
+
+![](images/Flood%20List%20Logo.jpg)
+
+![](images/Science%20Daily.jpg)

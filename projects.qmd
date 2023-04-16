@@ -1,4 +1,34 @@
 ---
-title: "Publications & Projects"
+title: "Research"
 editor: visual
 ---
+
+[*Graduate*]{.underline}
+
+-   **Causes, Impacts, and Mitigation Strategies of Urban Pluvial Floods in India: A Systematic Review**
+
+    ![](images/Poster%20image.png){width="48"}
+
+    Harman Singh, [Miriam Nielsen](https://eesc.columbia.edu/content/miriam-nielsen), and Dr. [Helen Greatrex](https://www.geog.psu.edu/directory/helen-greatrex)
+
+-   **News Media Coverage of India's National River Linking Program (2004-2022): A Case Study of the Ken-Betwa Link using Topic Modeling**
+
+    ![](images/Poster%20image.png){width="48"}
+
+    Harman Singh, Matthew Hansen, and Dr. [Trevor Birkenholtz](https://www.geog.psu.edu/directory/trevor-birkenholtz)
+
+-   **Digital Newspaper Data Retrieval and Cleaning for Qualitative Analysis**
+
+    Harman Singh, Matthew Hansen, and Trevor Birkenholtz
+
+-   **COVID-19 & Climate Change: Methods for Mapping the Effects of a Compounding Crisis in the Coastal Zone**
+
+    Dr. [Sweta Baniya](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/sweta-baniya.html), Dr. [Andrew Katz](https://enge.vt.edu/People/researchfaculty/andrewkatz.html), Maggie Webb, Harman Singh, and Rachel Inman
+
+[*Undergraduate*]{.underline}
+
+-   **Remotely Capturing Perceptions of Community Gatekeepers on Impactful Floods in Kerala, India**
+
+    ![](images/Poster%20image.png){width="48"}
+
+    Harman Singh, Trevor Birkenholtz, and Helen Greatrex
