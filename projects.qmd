@@ -7,13 +7,13 @@ editor: visual
 
 -   **Causes, Impacts, and Mitigation Strategies of Urban Pluvial Floods in India: A Systematic Review**
 
-    ![](images/Poster%20image.png){width="48"}
+    [![](images/Poster%20image.png){width="48"}](https://github.com/harmansingh1412/HarmanSingh_profile/blob/main/research%20posters/Pluvial%20Floods%20Systematic%20Review.pdf)
 
     Harman Singh, [Miriam Nielsen](https://eesc.columbia.edu/content/miriam-nielsen), and Dr. [Helen Greatrex](https://www.geog.psu.edu/directory/helen-greatrex)
 
 -   **News Media Coverage of India's National River Linking Program (2004-2022): A Case Study of the Ken-Betwa Link using Topic Modeling**
 
-    ![](images/Poster%20image.png){width="48"}
+    [![](images/Poster%20image.png){width="48"}](https://github.com/harmansingh1412/HarmanSingh_profile/blob/main/research%20posters/INRLP%20poster.pdf)
 
     Harman Singh, Matthew Hansen, and Dr. [Trevor Birkenholtz](https://www.geog.psu.edu/directory/trevor-birkenholtz)
 
@@ -29,6 +29,6 @@ editor: visual
 
 -   **Remotely Capturing Perceptions of Community Gatekeepers on Impactful Floods in Kerala, India**
 
-    ![](images/Poster%20image.png){width="48"}
+    [![](images/Poster%20image.png){width="48"}](https://github.com/harmansingh1412/HarmanSingh_profile/blob/main/research%20posters/Kerala%20floods.pdf)
 
     Harman Singh, Trevor Birkenholtz, and Helen Greatrex
