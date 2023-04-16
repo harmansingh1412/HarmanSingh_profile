@@ -22,8 +22,8 @@ Hello! My name is Harman Singh and I am a graduate student in the [Department of
 
 My research interests lie primarily in field of natural hazards and human-environmental systems. My Ph.D. research is grounded in disaster risk science, and I am interested in identifying future urban pluvial flood risks under a changing climate in India.
 
-[***Flood News***]{.underline}
+[***Here are some links to current Flood News:***]{.underline}
 
-![](images/Flood%20List%20Logo.jpg)
+![](images/Flood%20List%20Logo.jpg){fig-align="center"}
 
-![](images/Science%20Daily.jpg)
+![](images/Science%20Daily.jpg){fig-align="center"}
