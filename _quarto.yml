@@ -12,8 +12,8 @@ website:
         text: Research
       - href: Teaching.qmd
         text: Teaching
-      - href: Contact.qmd
-        text: Contact
+      - href: Conferences & Workshops.qmd
+        text: Conferences & Workshops
 
 # supplying a light ("minty") and dark ("slate") theme to toggle between
 format:

@@ -1,0 +1,52 @@
+---
+title: "Conferences & Workshops"
+editor: visual
+---
+
+### **Conferences**
+
+[*2022*]{.underline}
+
+-   Poster. **H. Singh**; M. Hansen; T. Birkenholtz; *"News Media Coverage of India's National River Linking Program (2004-2022): A Case Study of the Ken-Betwa Link using Topic Modeling."*, ICDS Fall 2022 Symposium: Data Science, AI, and a Sustainable, Resilient, and Equitable Future at Pennsylvania State University, Pennsylvania, October 2022
+
+-   Oral Presentation. **H. Singh**; T. Birkenholtz; H. Greatrex; *"Competing Flood Histories, A Comparative Analysis of Government Perceptions and Rainfall Data in Kerala, India*", Annual Graduate Exhibition at Pennsylvania State University, Pennsylvania, March 2022 (Virtual)
+
+-   Oral Presentation. **H. Singh**; T. Birkenholtz; H. Greatrex; *"Competing Flood Histories, A Comparative Analysis of Government Perceptions and Rainfall Data in Kerala, India"*, American Association of Geographers Annual Conference, February 2022 (Virtual)
+
+[*2021*]{.underline}
+
+-   Poster. **H. Singh**; T. Birkenholtz; H. Greatrex; *"Examining the Nature of Complex Urban Flooding through a Mixed Method Approach: A Case from Kerala, India.*", ICDS Fall 2021 Symposium: The Future of Digital Fairness at Pennsylvania State University, Pennsylvania, October 2021
+
+-   Paper presentation. **H. Singh**; T. Birkenholtz; H. Greatrex; *"Examining the Nature of Complex Urban Flooding through a Mixed Method Approach: A Case from Kerala, India."*, 46th Annual Natural Hazards Researchers Meeting, University of Colorado Boulder, July 2021 (Virtual)
+
+-   Poster. **H. Sing**h; T. Birkenholtz; H. Greatrex; *"Examining the Nature of Complex Urban Flooding through a Mixed Method Approach: A Case from Kerala, India."*, Celebration of Undergraduate Engagement (CUE) at Pennsylvania State University, Pennsylvania, April 2021 (Virtual)
+
+-   Poster. **H. Singh**; T. Birkenholtz; H. Greatrex; *"Examining the Nature of Complex Urban Flooding through a Mixed Method Approach: A Case from Kerala, India."*, Undergraduate Exhibition for Research, Inquiry, and Creative Activity, Pennsylvania, April 2021 (Virtual)
+
+[*2020*]{.underline}
+
+-   Oral presentation. **H. Sing**h; T. Birkenholtz; H. Greatrex; *"The Complex Nature of flooding in Kerala: a mixed method approach."*, Sustainability Student Leaders Symposium, Southern New Hampshire University, November 2020 (Virtual)
+
+-   Poster. **H. Singh**; T. Birkenholtz; H. Greatrex; *"The Relationship between flooding and land use land cover in Kochi: a mixed method approach."*, Celebration of Undergraduate Engagement (CUE) at Pennsylvania State University, Pennsylvania, April 2020 (Virtual)
+
+[*2019*]{.underline}
+
+-   Poster. R. Kurtz; C. Kizis; **H. Singh**; *"Effects of Urban Growth on Sustainability in the Spring Creek Watershed"*, Sustainability Expo at Pennsylvania State University, Pennsylvania, December 2019
+
+-   Poster. E. Arndt; **H. Singh**; *"Satellite analysis of the 2018 Kerala floods to study their impact on people, properties and the environment."*, American Association of Geographers annual conference, Washington DC, April 2019
+
+-   Poster. E. Arndt; **H. Singh**; *"Satellite analysis of the 2018 Kerala floods to study their impact on people, properties and the environment."*, Undergraduate Exhibition for Research, Inquiry, and Creative Activity, Pennsylvania, April 2019
+
+### **Workshops**
+
+[*2022*]{.underline}
+
+-   Attended *"Safer People Safer Places Transgender and Gender Inclusion 101 Workshop"* Center for Sexual and Gender Diversity at the Pennsylvania State University, Pennsylvania, October 2022
+
+-   Attended *"Safer People Safer Places Foundations Workshop"* Center for Sexual and Gender Diversity at the Pennsylvania State University, Pennsylvania, September 2022
+
+-   Virtually attended *"Changing Climates: Equity and Adaptation in a Warming World"*, 47th Annual Natural Hazards Research and Application Workshop, University of Colorado Boulder, July 2022
+
+-   Created and virtually conducted *"Introduction to Diversity, Equity, and Inclusion (DEI), Bias, Vulnerability, and Ethical Decision-Making"*, \* NHERI Research Experience for Undergraduates Summer Program, The University of Texas at San Antonio, July 2022
+
+
