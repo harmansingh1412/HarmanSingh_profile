@@ -24,6 +24,6 @@ My research interests lie primarily in field of natural hazards and human-enviro
 
 [***Here are some links to current Flood News:***]{.underline}
 
-![](images/Flood%20List%20Logo.jpg){fig-align="center"}
+[![](images/Flood%20List%20Logo.jpg){fig-align="center"}](https://floodlist.com/)
 
-![](images/Science%20Daily.jpg){fig-align="center"}
+[![](images/Science%20Daily.jpg){fig-align="center"}](https://www.sciencedaily.com/news/earth_climate/floods/)

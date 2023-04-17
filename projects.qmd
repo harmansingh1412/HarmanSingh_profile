@@ -18,7 +18,7 @@ editor: visual
 
 -   **Digital Newspaper Data Retrieval and Cleaning for Qualitative Analysis**
 
-    -Harman Singh, Matthew Hansen, and Trevor Birkenholtz
+    -Harman Singh, Matthew Hansen, and Dr. Trevor Birkenholtz
 
 -   **COVID-19 & Climate Change: Methods for Mapping the Effects of a Compounding Crisis in the Coastal Zone**
 
@@ -30,4 +30,4 @@ editor: visual
 
     [![](images/Poster%20image.png){width="48"}](https://github.com/harmansingh1412/HarmanSingh_profile/blob/main/research%20posters/Kerala%20floods.pdf)
 
-    -Harman Singh, Trevor Birkenholtz, and Helen Greatrex
+    -Harman Singh, Dr. Trevor Birkenholtz, and Dr. Helen Greatrex
