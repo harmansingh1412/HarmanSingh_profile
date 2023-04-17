@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-[*Graduate*]{.underline}
+[*Graduate Research*]{.underline}
 
 -   **Causes, Impacts, and Mitigation Strategies of Urban Pluvial Floods in India: A Systematic Review**
 
@@ -24,7 +24,7 @@ editor: visual
 
     -Dr. [Sweta Baniya](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/sweta-baniya.html), Dr. [Andrew Katz](https://enge.vt.edu/People/researchfaculty/andrewkatz.html), Maggie Webb, Harman Singh, and Rachel Inman
 
-[*Undergraduate*]{.underline}
+[*Undergraduate Research*]{.underline}
 
 -   **Remotely Capturing Perceptions of Community Gatekeepers on Impactful Floods in Kerala, India**
 
